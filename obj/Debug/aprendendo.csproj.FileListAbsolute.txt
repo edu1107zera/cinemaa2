@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\aprendendo\aprendendo\bin\Debug\aprendendo.exe.config
+C:\Users\DELL\source\repos\aprendendo\aprendendo\bin\Debug\aprendendo.exe
+C:\Users\DELL\source\repos\aprendendo\aprendendo\bin\Debug\aprendendo.pdb
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.Form1.resources
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.Properties.Resources.resources
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.exe
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.pdb
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.salaoline.resources
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.ingresso.resources
+C:\Users\DELL\source\repos\aprendendo\aprendendo\obj\Debug\aprendendo.criar.resources
